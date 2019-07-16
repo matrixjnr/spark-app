@@ -1,4 +1,7 @@
 # spark-basic-structure
+
+[![asciicast](https://asciinema.org/a/257670.svg)](https://asciinema.org/a/257670)
+
 Java on Piku Micro PaaS on Ubuntu 18 and Linux Mint 19
 This is an example of one possible way of structuring a Spark application.
 
